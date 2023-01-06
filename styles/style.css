@@ -186,12 +186,9 @@
   min-height: 890px;
   align-items: center;
   flex-direction: column;
-  background-image: url(/images/feynman.png);
+  background: no-repeat left bottom url(/images/feynman.png);
   background-position: absolute;
-  background-repeat: no-repeat;
   background-size: 867px 637px;
-  background-position-x: left;
-  background-position-y: bottom;
   background-color: #f2f2f2;
   }
 
@@ -283,7 +280,7 @@
   padding: 0;
   padding-top: 60px;
   padding-bottom: 40px;
-  min-height: 250px;
+  min-height: 350px;
   position: relative;
   background-color: #1f1f1f;
   color:white;
@@ -295,6 +292,7 @@
   display: flex;
   justify-content: space-between;
   position: relative;
+  min-height: 250px;
 }
 
 .footer__column_content_copyright {
@@ -306,8 +304,7 @@
 
 .footer__social-icon {
   margin-right: 10px;
-  margin: 0;
-}
+  }
 
 .footer__author {
   margin-top: 18px;
@@ -331,6 +328,7 @@
   list-style-type: none;
   padding-left: 0;
   margin-bottom: 16px;
+  margin-top: 0;
 }
 
 .footer__column-link {
