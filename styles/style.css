@@ -284,6 +284,7 @@
   position: relative;
   background-color: #1f1f1f;
   color:white;
+  box-sizing: border-box;
 }
 
 .footer__columns {
