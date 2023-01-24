@@ -1,11 +1,9 @@
 .two-columns__paragraph {
   margin-top: 0;
-  margin-bottom: 0;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
   margin-bottom: 30px;
-
   }
 
 .two-columns__paragraph:last-child {
