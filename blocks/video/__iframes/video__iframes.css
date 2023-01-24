@@ -1,7 +1,8 @@
 .video__iframes {
-  margin-top: 50px;
+  margin: 0;
   display: flex;
   justify-content: center;
+  transform: translateY(50px);
 }
 
 .video__iframe:nth-child(1) {
