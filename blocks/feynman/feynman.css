@@ -7,7 +7,6 @@
   align-items: center;
   flex-direction: column;
   background: no-repeat left bottom url(../../images/feynman.png);
-  background-position: absolute;
   background-size: 867px 637px;
   background-color: #f2f2f2;
 }
